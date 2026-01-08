@@ -36,6 +36,6 @@ Navigate to the settings page once you open up the prompt maker website!
 
 Paste the key in the field
 
-HAve fun!
+Have fun!
 
 # Join My [DISCORD](https://discord.gg/Rp4f4KzCZh) for more apps!
