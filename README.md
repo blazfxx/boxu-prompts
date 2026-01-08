@@ -24,7 +24,7 @@ Located in the [releases](https://github.com/blazfxx/boxu-prompts/releases/) pag
 
 # SETUP
 
-**Double lcick the dowload, the server should launch at: http://localhost:3847**
+**Double click the dowloaded file, the server should launch at: http://localhost:3847**
 
 Create an account at https://groq.com
 
