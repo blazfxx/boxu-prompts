@@ -19,6 +19,6 @@ Donwload the file:
 
 - **Linux (x64):** prompt-architect-linux-x64
 
-Located in the [releases] page!
+Located in the [releases](https://github.com/blazfxx/boxu-prompts/releases/) page!
 
 # Join My [DISCORD](https://discord.gg/Rp4f4KzCZh) for more apps!
