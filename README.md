@@ -11,7 +11,7 @@ Donwload the file:
 
 - **ARM(M-Series):** prompt-architect-macos-arm64
 
-## **Windows**
+## [**Windows**](https://github.com/blazfxx/boxu-prompts/releases/tag/windows)
 
 - **Windows (x64):** prompt-architect-win-x64.exe
 
