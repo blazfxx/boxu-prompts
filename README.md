@@ -3,7 +3,7 @@ A website that generates top tier prompts from simple ones!
 
 # HOW TO USE?
 
-Donwload the file:
+**Download the file:**
 
 ## [**MacOS**](https://github.com/blazfxx/boxu-prompts/releases/tag/MacOS)
 
