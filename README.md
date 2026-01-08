@@ -15,7 +15,7 @@ Donwload the file:
 
 - **Windows (x64):** prompt-architect-win-x64.exe
 
-## **Linux**
+## [**Linux**](https://github.com/blazfxx/boxu-prompts/releases/tag/Linux)
 
 - **Linux (x64):** prompt-architect-linux-x64
 
