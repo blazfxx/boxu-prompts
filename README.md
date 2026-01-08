@@ -5,7 +5,7 @@ A website that generates top tier prompts from simple ones!
 
 Donwload the file:
 
-## **MacOS**
+## [**MacOS**](https://github.com/blazfxx/boxu-prompts/releases/tag/MacOS)
 
 - **Intel (x64):** prompt-architect-macos-x64
 
@@ -20,5 +20,22 @@ Donwload the file:
 - **Linux (x64):** prompt-architect-linux-x64
 
 Located in the [releases](https://github.com/blazfxx/boxu-prompts/releases/) page!
+
+
+# SETUP
+
+**Double lcick the dowload, the server should launch at: http://localhost:3847**
+
+Create an account at https://groq.com
+
+Create a **free** API key
+
+Copy it!
+
+Navigate to the settings page once you open up the prompt maker website!
+
+Paste the key in the field
+
+HAve fun!
 
 # Join My [DISCORD](https://discord.gg/Rp4f4KzCZh) for more apps!
