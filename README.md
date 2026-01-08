@@ -24,6 +24,15 @@ Located in the [releases](https://github.com/blazfxx/boxu-prompts/releases/) pag
 
 # SETUP
 
+## FOR MACPS/LINUX USERS:
+Before opening the file, make it an executable!:
+
+**Intel**: chmod +x prompt-architect-macos-x64 ./prompt-architect-macos-x64
+**ARM**: chmod +x prompt-architect-macos-arm64 ./prompt-architect-macos-arm64
+**Linux**: chmod +x prompt-architect-linux-x64 ./prompt-architect-linux-x64
+
+Then you may continue!
+
 **Double click the dowloaded file, the server should launch at: http://localhost:3847**
 
 Create an account at https://groq.com
