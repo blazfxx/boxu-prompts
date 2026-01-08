@@ -24,7 +24,7 @@ Located in the [releases](https://github.com/blazfxx/boxu-prompts/releases/) pag
 
 # SETUP
 
-## FOR MACPS/LINUX USERS:
+## FOR MACOS/LINUX USERS:
 Before opening the file, make it an executable!:
 
 **Intel**: chmod +x prompt-architect-macos-x64 ./prompt-architect-macos-x64
